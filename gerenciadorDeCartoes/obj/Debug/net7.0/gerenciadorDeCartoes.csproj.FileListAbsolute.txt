@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\gerenciadorDeCartoes\obj\Debug\net7.0\gerenciadorDeCartoes.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\gerenciadorDeCartoes\obj\Debug\net7.0\gerenciadorDeCartoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\gerenciadorDeCartoes\obj\Debug\net7.0\gerenciadorDeCartoes.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\gerenciadorDeCartoes\obj\Debug\net7.0\gerenciadorDeCartoes.AssemblyInfo.cs
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\gerenciadorDeCartoes\obj\Debug\net7.0\gerenciadorDeCartoes.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\gerenciadorDeCartoes\bin\Debug\net7.0\gerenciadorDeCartoes.exe
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\gerenciadorDeCartoes\bin\Debug\net7.0\gerenciadorDeCartoes.deps.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\gerenciadorDeCartoes\bin\Debug\net7.0\gerenciadorDeCartoes.runtimeconfig.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\gerenciadorDeCartoes\bin\Debug\net7.0\gerenciadorDeCartoes.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\gerenciadorDeCartoes\bin\Debug\net7.0\gerenciadorDeCartoes.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\gerenciadorDeCartoes\obj\Debug\net7.0\gerenciadorDeCartoes.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\gerenciadorDeCartoes\obj\Debug\net7.0\refint\gerenciadorDeCartoes.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\gerenciadorDeCartoes\obj\Debug\net7.0\gerenciadorDeCartoes.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\gerenciadorDeCartoes\obj\Debug\net7.0\gerenciadorDeCartoes.genruntimeconfig.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\gerenciadorDeCartoes\obj\Debug\net7.0\ref\gerenciadorDeCartoes.dll

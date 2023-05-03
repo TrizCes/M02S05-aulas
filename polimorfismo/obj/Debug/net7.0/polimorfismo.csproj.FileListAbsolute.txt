@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\polimorfismo\obj\Debug\net7.0\polimorfismo.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\polimorfismo\obj\Debug\net7.0\polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\polimorfismo\obj\Debug\net7.0\polimorfismo.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\polimorfismo\obj\Debug\net7.0\polimorfismo.AssemblyInfo.cs
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\polimorfismo\obj\Debug\net7.0\polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\polimorfismo\bin\Debug\net7.0\polimorfismo.exe
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\polimorfismo\bin\Debug\net7.0\polimorfismo.deps.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\polimorfismo\bin\Debug\net7.0\polimorfismo.runtimeconfig.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\polimorfismo\bin\Debug\net7.0\polimorfismo.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\polimorfismo\bin\Debug\net7.0\polimorfismo.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\polimorfismo\obj\Debug\net7.0\polimorfismo.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\polimorfismo\obj\Debug\net7.0\refint\polimorfismo.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\polimorfismo\obj\Debug\net7.0\polimorfismo.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\polimorfismo\obj\Debug\net7.0\polimorfismo.genruntimeconfig.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\polimorfismo\obj\Debug\net7.0\ref\polimorfismo.dll
