@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\escola\obj\Debug\net7.0\escola.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\escola\obj\Debug\net7.0\escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\escola\obj\Debug\net7.0\escola.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\escola\obj\Debug\net7.0\escola.AssemblyInfo.cs
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\escola\obj\Debug\net7.0\escola.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\escola\bin\Debug\net7.0\escola.exe
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\escola\bin\Debug\net7.0\escola.deps.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\escola\bin\Debug\net7.0\escola.runtimeconfig.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\escola\bin\Debug\net7.0\escola.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\escola\bin\Debug\net7.0\escola.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\escola\obj\Debug\net7.0\escola.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\escola\obj\Debug\net7.0\refint\escola.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\escola\obj\Debug\net7.0\escola.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\escola\obj\Debug\net7.0\escola.genruntimeconfig.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\escola\obj\Debug\net7.0\ref\escola.dll
