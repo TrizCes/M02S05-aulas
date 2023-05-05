@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\excecoes\bin\Debug\net7.0\excecoes.exe
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\excecoes\bin\Debug\net7.0\excecoes.deps.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\excecoes\bin\Debug\net7.0\excecoes.runtimeconfig.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\excecoes\bin\Debug\net7.0\excecoes.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\excecoes\bin\Debug\net7.0\excecoes.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\excecoes\obj\Debug\net7.0\excecoes.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\excecoes\obj\Debug\net7.0\excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\excecoes\obj\Debug\net7.0\excecoes.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\excecoes\obj\Debug\net7.0\excecoes.AssemblyInfo.cs
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\excecoes\obj\Debug\net7.0\excecoes.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\excecoes\obj\Debug\net7.0\excecoes.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\excecoes\obj\Debug\net7.0\refint\excecoes.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\excecoes\obj\Debug\net7.0\excecoes.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\excecoes\obj\Debug\net7.0\excecoes.genruntimeconfig.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\excecoes\obj\Debug\net7.0\ref\excecoes.dll

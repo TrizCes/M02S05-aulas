@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\statica\bin\Debug\net7.0\statica.exe
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\statica\bin\Debug\net7.0\statica.deps.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\statica\bin\Debug\net7.0\statica.runtimeconfig.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\statica\bin\Debug\net7.0\statica.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\statica\bin\Debug\net7.0\statica.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\statica\obj\Debug\net7.0\statica.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\statica\obj\Debug\net7.0\statica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\statica\obj\Debug\net7.0\statica.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\statica\obj\Debug\net7.0\statica.AssemblyInfo.cs
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\statica\obj\Debug\net7.0\statica.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\statica\obj\Debug\net7.0\statica.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\statica\obj\Debug\net7.0\refint\statica.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\statica\obj\Debug\net7.0\statica.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\statica\obj\Debug\net7.0\statica.genruntimeconfig.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana5\M02S05-aulas\statica\obj\Debug\net7.0\ref\statica.dll
